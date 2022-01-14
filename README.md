@@ -14,3 +14,5 @@ de campos experimentais, explorados no `Instituto de Agrofísica da Academia Pol
 O conjunto de dados pode ser usado para as tarefas de classificação e análise de cluster.
 
 Portanto vamos resolver um problema de classificação em machine learning.
+
+Link do [notebook](https://colab.research.google.com/github/FGalvao77/Deep-Learning-com-PyTorch/blob/main/Deep_Learning_com_PyTorch.ipynb).
